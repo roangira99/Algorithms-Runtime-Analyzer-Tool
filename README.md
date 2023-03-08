@@ -1,3 +1,4 @@
+<h1> Algorithms Runtime Analyzer tool </h1>
 <p>The main objective is to build a runtime analyzer tool that compares various sorting algorithms and their performance. This will help in determining which sorting algorithm is the most suitable when performing tasks with a heavy workload. The metric used in comparing the algorithms is the elapsed time after execution. The sorting algorithms tested include:<br>
 •	Quicksort<br>
 •	Merge sort<br>
